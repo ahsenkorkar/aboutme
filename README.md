@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahsen</h1>
 <h3 align="center">A passionate AI & data scientist candidate from Turkey.</h3>
 
-- 👨‍💻 I’m currently working on **data science and machine learning projects.**
-
 - 🌱 I’m currently participant at **Miuul Data Scientist Bootcamp**
+
+- 👨‍💻 Focused on **data science and machine learning projects.**
 
 - 📫 How to reach me **korkarahsen@gmail.com**
 
